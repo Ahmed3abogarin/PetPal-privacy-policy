@@ -1,4 +1,4 @@
-
+# PetPal Privacy Policy
 **Last updated:** January 2026
 
 PetPal ("we", "our", or "the app") respects your privacy and is committed to protecting it. This Privacy Policy explains how PetPal collects, uses, discloses, and safeguards your information when you use the PetPal mobile application.
